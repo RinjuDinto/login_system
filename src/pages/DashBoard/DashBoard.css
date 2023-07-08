@@ -1,0 +1,50 @@
+.header {
+  width: 100%;
+  left: 0px;
+  z-index: 1000;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  height: 70px;
+  line-height: 70px;
+  padding-right: 20px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(0 0 0 / 15%) 0px 1px 4px -1px;
+}
+
+.main {
+ display: flex;
+ padding-left: 24px;
+ width: 100%
+}
+
+.left {
+  display: flex;
+  flex: 1;
+}
+
+.logo {
+  margin: 10px;
+}
+
+.headerRight {
+  float: right;
+  overflow: hidden;
+}
+
+.username {
+  margin-left: 10px;
+}
+
+section.ant-layout.css-dev-only-do-not-override-14wwjjs {
+  background: #fafafb;
+}
+aside.ant-layout-sider.ant-layout-sider-light {
+  box-shadow: rgb(0 0 0 / 15%) 0px 1px 4px -1px;
+}
+
+.dashBoardContent { 
+  margin: '24px 16px'; 
+  padding: 24px;
+  min-height: 280 
+}

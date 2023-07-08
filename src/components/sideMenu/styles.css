@@ -1,0 +1,13 @@
+.logo {
+  display: flex;
+  justify-content: space-between;
+  width: 265px;
+  align-items: center;
+}
+
+.sider {
+  overflow: auto;
+  height: 100vh;
+  position: fixed !important;
+  left: 0;
+}

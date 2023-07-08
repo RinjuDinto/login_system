@@ -1,0 +1,8 @@
+.layoutContainer {
+  height: 100vh
+}
+
+.contentData { 
+  display: flex;
+  flex-direction: column;
+}

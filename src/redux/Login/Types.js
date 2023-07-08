@@ -1,0 +1,1 @@
+export const SAVE_LOGIN_STATUS = 'SAVE_LOGIN_STATUS';
